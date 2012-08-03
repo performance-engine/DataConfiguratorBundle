@@ -1,7 +1,7 @@
 {
     "name": "performance-engine/data-configurator-bundle",
     "description": "Symfony Bundle to integrate doctrine-virtual-orm",
-    "licanse": "MIT",
+    "license": "MIT",
     "authors": [
         {
             "name": "Yura Rodchyn",
