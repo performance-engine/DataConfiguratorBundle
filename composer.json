@@ -11,5 +11,8 @@
     "require": {
 	"performance-engine/doctrine-virtual-orm": "*"
     },
-    "target-dir": "PerformanceEngine\Bundle\DataConfiguratorBundle"
+    "autoload": {
+        "psr-0": { "PerformanceEngine\\Bundle\\DataConfiguratorBundle": "" }
+    },
+    "target-dir": "PerformanceEngine/Bundle/DataConfiguratorBundle"
 }
