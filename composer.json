@@ -10,5 +10,6 @@
     ],
     "require": {
 	"performance-engine/doctrine-virtual-orm": "*"
-    }
+    },
+    "target-dir": "PerformanceEngine\Bundle\DataConfiguratorBundle"
 }
